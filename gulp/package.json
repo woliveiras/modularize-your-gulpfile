@@ -1,5 +1,5 @@
 {
-  "name": "modular-gulpfile",
+  "name": "gulpfile-of-modularize-your-gulpfile",
   "version": "1.0.0",
   "description": "A simple Gulpfile modularized to start your project with best practices",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/woliveiras/modular-gulpfile.git"
+    "url": "git+https://github.com/woliveiras/gulpfile-of-modularize-your-gulpfile.git"
   },
   "keywords": [
     "gulp",
@@ -20,9 +20,9 @@
   "author": "William de Oliveira Souza",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/woliveiras/modular-gulpfile/issues"
+    "url": "https://github.com/woliveiras/gulpfile-of-modularize-your-gulpfile/issues"
   },
-  "homepage": "https://github.com/woliveiras/modular-gulpfile#readme",
+  "homepage": "https://github.com/woliveiras/gulpfile-of-modularize-your-gulpfile#readme",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-load-plugins": "^1.2.0",
