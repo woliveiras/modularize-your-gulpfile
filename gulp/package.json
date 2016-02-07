@@ -13,7 +13,9 @@
   "keywords": [
     "gulp",
     "gulpfile",
-    "modular"
+    "modular",
+    "modularize",
+    "modularized"
   ],
   "author": "William de Oliveira Souza",
   "license": "MIT",
