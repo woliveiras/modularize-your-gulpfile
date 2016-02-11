@@ -6,6 +6,12 @@ Based on: http://macr.ae/article/splitting-gulpfile-multiple-files.html
 
 Everything that is related to Gulp is inside the folder 'gulp`
 
+## Clone
+
+```
+git clone https://github.com/woliveiras/modularize-your-gulpfile.git your_project
+```
+
 ### Configurations file
 
 All your paths and configuration to plugins, you put in `gulp.config.js`.
